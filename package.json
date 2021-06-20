@@ -1,0 +1,11 @@
+{
+  "name": "algo-a-way-out",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
